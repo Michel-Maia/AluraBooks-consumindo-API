@@ -1,6 +1,11 @@
-var consultaCEP = fetch('https://viacep.com.br/ws/01001000/json');
+async function buscaEnd() {
+    var consultaCEP = await fetch('https://viacep.com.br/ws/01001000/json')
+    var consultaCEPConvertida = await consultaCEP.json();
 
-console.log(consultaCEP);
+    console.log(consultaCEPConvertida);
+}
+
+buscaEnd();
 
 
 
