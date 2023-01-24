@@ -4,11 +4,11 @@
 ![preview](./.github/preview.png)
 
 
-Desenvolvido para aprendizado. 17/01/2023
+Desenvolvido para aprendizado. 24/01/2023
 Realizado durante aula de JavaScript onde foi feito validações e reconhecimento de voz. 
 
 
-[🔗 Clique aqui para acessar] (https://michel-maia.github.io/Numero-Secreto-JS/)
+[🔗 Clique aqui para acessar] (https://michel-maia.github.io/AluraBooks-consumindo-API/)
 
 
 ## 💻 Tecnologias
@@ -21,17 +21,8 @@ Realizado durante aula de JavaScript onde foi feito validações e reconheciment
 ## Referência
 
 - [alura] [https://www.alura.com.br/]
+- [alura] [https://www.alura.com.br/artigos/comecando-com-fetch-no-javascript]
 - [MDN] [https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API]
-
-https://www.alura.com.br/artigos/comecando-com-fetch-no-javascript
-
-
-
-
-
-
-
-
 
 
 
