@@ -23,6 +23,7 @@ Realizado durante aula de JavaScript uso de API.
 - [alura] [https://www.alura.com.br/]
 - [alura] [https://www.alura.com.br/artigos/comecando-com-fetch-no-javascript]
 - [MDN] [https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API]
+- [MDN] [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise]
 
 
 
