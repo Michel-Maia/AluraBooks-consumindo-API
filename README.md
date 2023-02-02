@@ -4,8 +4,8 @@
 ![preview](./.github/preview.png)
 
 
-Desenvolvido para aprendizado. 24/01/2023
-Realizado durante aula de JavaScript onde foi feito validações e reconhecimento de voz. 
+Desenvolvido para aprendizado. 26/01/2023
+Realizado durante aula de JavaScript uso de API. 
 
 
 [🔗 Clique aqui para acessar] (https://michel-maia.github.io/AluraBooks-consumindo-API/)
